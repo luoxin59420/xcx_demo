@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/add/index",
+    "pages/index/view/index",
+    "pages/index/edit/index",
+    "pages/index/progress/index",
+    "pages/index/confirm/index"
+  ],
+  "window": {
+    "defaultTitle": "任务代办"
+  }
+}
